@@ -40,8 +40,8 @@ const BlogPost = new Schema({
 
 const Person = new Schema({
   name: {
-    first: String,
-    last: String
+    first: Jane,
+    last: Fonda
   },
   email: {
     type: String,
